@@ -2,13 +2,13 @@
 window.BLOQE_CONFIG = {
   // Número de WhatsApp de Renato: con código de país, solo dígitos (sin +).
   // Ejemplo: "51999888777". Mientras esté vacío, los botones de WhatsApp no aparecen.
-  RENATO_WHATSAPP: "",
+  RENATO_WHATSAPP: "999955558",
 
   // Adelanto que aparece en el mensaje de reserva (confirmar con BLOQE).
   ADELANTO_SOLES: 20,
 
   // Datos de Supabase (Settings > API). Si quedan vacíos, el chat funciona en
   // modo demostración con datos de ejemplo y no guarda nada en Supabase.
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://ncsbdkjptoixajtievkl.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_Ld-GEwdXAP5JjGZMghFmBA_q4vGbNPR",
 };
